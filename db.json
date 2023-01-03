@@ -20,7 +20,7 @@
     },
     {
       "title": "Bucketlist",
-      "name": "Bucketlist",
+      "name": "bucketlist",
       "created": "18 februari 2016",
       "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/bucketlist"
     }

@@ -1,0 +1,285 @@
+{
+  "boards": [
+    {
+      "title": "Schoolwork",
+      "created": "25 oktober 2023",
+      "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/schoolwork"
+    },
+    {
+      "title": "Daily Goals",
+      "created": "23 oktober 1999",
+      "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/dailygoals"
+    },
+    {
+      "title": "2023 Goals",
+      "created": "31 december 2022",
+      "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/2023goals"
+    },
+    {
+      "title": "Bucketlist",
+      "created": "18 februari 2016",
+      "link": "https://my-json-server.typicode.com/MilanVandenbussche/mock-trello-db/bucketlist"
+    }
+  ],
+  "schoolwork": [
+    {
+      "title": "Backlog",
+      "data": [
+        {
+          "title": "PHP",
+          "extra": [
+            {
+              "title": "PHP OOP",
+              "check": false
+            },
+            {
+              "title": "Laravel (PHP Framework)",
+              "check": false
+            }
+          ]
+        },
+        {
+          "title": "Laravel",
+          "extra": [
+            {
+              "title": "livewire.js",
+              "check": false
+            },
+            {
+              "title": "alpine.js",
+              "check": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pending",
+      "data": [
+        {
+          "title": "Eindwerk",
+          "extra": [
+            {
+              "title": "Statische pagina's maken",
+              "check": false
+            },
+            {
+              "title": "al de rest",
+              "check": false
+            }
+          ]
+        },
+        {
+          "title": "Stage gesprek",
+          "extra": [
+            {
+              "title": "Praten",
+              "check": true
+            },
+            {
+              "title": "Voorbeelden tonen",
+              "check": true
+            }
+          ]
+        },
+        {
+          "title": "SQL",
+          "extra": [
+            {
+              "title": "MySQL",
+              "check": true
+            },
+            {
+              "title": "MariaDB",
+              "check": false
+            }
+          ]
+        },
+        {
+          "title": "CSS Frameworks",
+          "extra": [
+            {
+              "title": "Bootstrap",
+              "check": true
+            },
+            {
+              "title": "Tailwind",
+              "check": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Done",
+      "data": [
+        {
+          "title": "Stage aanvraag",
+          "extra": [
+            {
+              "title": "Mails sturen",
+              "check": true
+            },
+            {
+              "title": "Hopen op antwoorden",
+              "check": true
+            },
+            {
+              "title": "Gesrpek inplannen",
+              "check": true
+            }
+          ]
+        },
+        {
+          "title": "Vue-basis leren",
+          "extra": [
+            {
+              "title": "Naar de les gaan",
+              "check": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dailygoals": [
+    {
+      "title": "Backlog",
+      "data": [
+        {
+          "title": "Avond eten",
+          "extra": []
+        },
+        {
+          "title": "Wandeling",
+          "extra": []
+        },
+        {
+          "title": "Slapen",
+          "extra": []
+        }
+      ]
+    },
+    {
+      "title": "In Progress",
+      "data": [
+        {
+          "title": "Ademen",
+          "extra": [
+            {
+              "title": "Whatever you do, don't stop doing this one",
+              "check": true
+            }
+          ]
+        },
+        {
+          "title": "Doen wat er te doen valt (namiddag)",
+          "extra": []
+        },
+        {
+          "title": "Functioneren",
+          "extra": []
+        }
+      ]
+    },
+    {
+      "title": "Done",
+      "data": [
+        {
+          "title": "Middageten",
+          "extra": []
+        },
+        {
+          "title": "Doen wat er te doen valt (voormiddag)",
+          "extra": []
+        },
+        {
+          "title": "Ontbijt",
+          "extra": []
+        },
+        {
+          "title": "Wakker worden",
+          "extra": []
+        }
+      ]
+    }
+  ],
+  "2023goals": [],
+  "bucketlist": [
+    {
+      "title": "Still in the bucket",
+      "data": [
+        {
+          "title": "Sky-diven",
+          "extra": [
+            {
+              "title": "Growing a pair",
+              "check": false
+            },
+            {
+              "title": "Nie doodgaan",
+              "check": false
+            }
+          ]
+        },
+        {
+          "title": "Wereldreis",
+          "extra": [
+            {
+              "title": "Genoeg aan de kant zetten",
+              "check": false
+            },
+            {
+              "title": "Het effectief doen",
+              "check": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "In Progress",
+      "data": [
+        {
+          "title": "Fullstack Developer worden",
+          "extra": [
+            {
+              "title": "Inschrijven voor de opleiding",
+              "check": true
+            },
+            {
+              "title": "Al de rest",
+              "check": false
+            },
+            {
+              "title": "Diploma halen",
+              "check": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Done",
+      "data": [
+        {
+          "title": "Grafisch ontwerper worden",
+          "extra": [
+            {
+              "title": "Inschrijven voor de opleiding",
+              "check": true
+            },
+            {
+              "title": "Al de rest",
+              "check": true
+            },
+            {
+              "title": "Diploma halen",
+              "check": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

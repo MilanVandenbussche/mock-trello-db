@@ -30,6 +30,7 @@
     "data": [
       {
         "title": "Backlog",
+        "color": "#f5f5f5",
         "data": [
           {
             "title": "PHP",
@@ -61,6 +62,7 @@
       },
       {
         "title": "Pending",
+        "color": "#ff8b3d",
         "data": [
           {
             "title": "Eindwerk",
@@ -118,6 +120,7 @@
       },
       {
         "title": "Done",
+        "color": "#C1E1C1",
         "data": [
           {
             "title": "Stage aanvraag",
